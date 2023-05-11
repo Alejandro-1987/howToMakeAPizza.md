@@ -8,3 +8,4 @@ Masa para pizza previamente hecha
 50 gramos de jamón cocido salchicha ó peperoni
 Una pizca de orégano
 Una pizca de sal
+todo ello
