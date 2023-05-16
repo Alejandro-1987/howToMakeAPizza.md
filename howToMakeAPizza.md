@@ -10,3 +10,11 @@ Masa para pizza previamente hecha
 Una pizca de orégano
 Una pizca de sal
 todo ello
+Preparación de la pizza:
+<ol> 
+<li>Hacer la masa de la pizza</li>
+<li>Agregar la salsa de tomate</li>
+<li>Agregar el queso rallado</li>
+<li>Agregar ingredientes extras, como verduras o carnes</li>
+<li>Enviar al horno</li>
+</ol>
